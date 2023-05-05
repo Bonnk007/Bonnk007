@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonnk007&label=Profile%20views&color=0e75b6&style=flat" alt="bonnk007" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://bonnk007.github.io/Weather-app/)
+- 🔭 I’m currently working on [Personal Portfolio]()
 
 - 🌱 I’m currently learning **DSA**
 
