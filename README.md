@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me anything about **frontend development**
 
 - 📫 How to reach me **praveentuf15@gmail.com**
 
